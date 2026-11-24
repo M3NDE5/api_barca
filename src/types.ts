@@ -7,6 +7,10 @@ export interface Player {
   name: string;
   position: Position;
   role: Role; // posición exacta para ubicarlo en la cancha
+  birthDate: string | null; // YYYY-MM-DD
+  foot: "Derecha" | "Izquierda" | "Ambas" | null;
+  goals: number | null; // temporada actual
+  assists: number | null; // temporada actual
 }
 
 export interface Match {

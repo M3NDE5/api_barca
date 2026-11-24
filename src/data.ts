@@ -54,7 +54,8 @@ export const teams: Team[] = [
       { name: "Caroline Graham Hansen", position: "Delantero", role: "EXD" },
       { name: "Ewa Pajor", position: "Delantero", role: "DEL" },
       { name: "Salma Paralluelo", position: "Delantero", role: "EXI" },
-      { name: "Claudia Pina", position: "Delantero", role: "EXI" }
+      { name: "Claudia Pina", position: "Delantero", role: "EXI" },
+      { name: "Esmee Brugts", position: "Defensa", role: "LD" },
     ],
     // Fechas de Liga F; rivales por completar desde fcbarcelona.com
     matches: [

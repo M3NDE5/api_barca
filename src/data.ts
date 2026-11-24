@@ -24,8 +24,8 @@ export const teams: Team[] = [
       { name: "Marc Casadó", position: "Centrocampista", role: "MCD" },
       { name: "Dani Olmo", position: "Centrocampista", role: "MCO" },
       { name: "Lamine Yamal", position: "Delantero", role: "EXD" },
-      { name: "Raphinha", position: "Delantero", role: "EXI" },
-      { name: "Anthony Gordon", position: "Delantero", role: "DEL" }
+      { name: "Raphinha", position: "Delantero", role: "DEL" },
+      { name: "Anthony Gordon", position: "Delantero", role: "EXI" }
     ],
     matches: [
       { date: "2026-11-25T18:45:00+01:00", opponent: "Sabah", competition: "Champions League", home: false },

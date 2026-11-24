@@ -12,7 +12,6 @@ export const teams: Team[] = [
       { name: "Marc-André ter Stegen", position: "Portero", role: "POR" },
       { name: "Jules Koundé", position: "Defensa", role: "LD" },
       { name: "Pau Cubarsí", position: "Defensa", role: "DFC" },
-      { name: "Ronald Araújo", position: "Defensa", role: "DFC" },
       { name: "Alejandro Balde", position: "Defensa", role: "LI" },
       { name: "Gerard Martín", position: "Defensa", role: "LI" },
       { name: "Eric García", position: "Defensa", role: "DFC" },
@@ -25,7 +24,8 @@ export const teams: Team[] = [
       { name: "Marc Casadó", position: "Centrocampista", role: "MCD" },
       { name: "Dani Olmo", position: "Centrocampista", role: "MCO" },
       { name: "Lamine Yamal", position: "Delantero", role: "EXD" },
-      { name: "Raphinha", position: "Delantero", role: "EXI" }
+      { name: "Raphinha", position: "Delantero", role: "EXI" },
+      { name: "Anthony Gordon", position: "Delantero", role: "DEL" }
     ],
     matches: [
       { date: "2026-11-25T18:45:00+01:00", opponent: "Sabah", competition: "Champions League", home: false },
